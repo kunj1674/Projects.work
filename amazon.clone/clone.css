@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+.nav-logo{
+    height: 50px;
+    width: 111px;
+}
+.logo{
+    height: 50px;
+    width: 100%;
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+}
