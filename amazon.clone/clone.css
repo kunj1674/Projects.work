@@ -125,3 +125,41 @@ span {
     font-size: 0.9rem;
     font-weight: 700;
 }
+/* hero portion*/
+.hero_section {
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.hero_msg {
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    font-size: 0.85rem;
+    margin-bottom: 30px;
+}
+.hero_msg a {
+    color: #007185;
+}
+/* box section*/
+.shop_section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box {
+    border: 2px solid black;
+    height: 350px;
+    width: 23%;
+    background-color: white;
+}
+.b_img {
+    height: 295px;
+}
