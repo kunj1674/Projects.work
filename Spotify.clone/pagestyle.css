@@ -220,5 +220,5 @@ a {
 .progress-bar::-webkit-slider-runnable-track {
     background-color: #ddd;
     border-radius: 100px;
-    /* height: 0.2rem; remove comment from this line only comment */
+    height: 0.2rem;
 }
